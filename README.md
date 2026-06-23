@@ -1,2 +1,2 @@
 # Webpage
-A beginner friendly webpage buildig task
+A beginner friendly webpage building task
