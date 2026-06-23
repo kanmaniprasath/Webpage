@@ -1,3 +1,4 @@
 # Webpage
-A beginner friendly webpage building task
-https://kanmaniprasath.github.io/Webpage/
+A beginner friendly webpage building task.
+Using Jekyll and Github pages.
+
